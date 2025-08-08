@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Phoenix Ashes",
-  "version": "1.0",
-  "description": "Chrome extension that automatically saves what you type in textboxes and restores it if the page is refreshed, quit, or the content would otherwise be lost.",
+  "name": "Orpheus",
+  "version": "1.1",
+  "description": "Automatically saves locally what you type in textboxes and restores it if the page is refreshed, quit, or the content would otherwise be lost.",
   "permissions": ["storage", "scripting"],
   "host_permissions": ["<all_urls>"],
   "content_scripts": [

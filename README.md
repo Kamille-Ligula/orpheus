@@ -1,4 +1,4 @@
-# Phoenix Ashes
+# Orpheus
 
 ## Overview
 A Chrome extension that automatically saves what you type in textboxes and restores it if the page is refreshed, quit, or the content would otherwise be lost.
@@ -8,4 +8,4 @@ A Chrome extension that automatically saves what you type in textboxes and resto
 2) Go to chrome://extensions/.
 3) Enable Developer mode (top-right).
 4) Click Load unpacked.
-5) Select your phoenix-ashes folder. That's it. The extenstion was now added to Chrome.
+5) Select the orpheus folder. That's it. The extenstion has now been added to Chrome.
